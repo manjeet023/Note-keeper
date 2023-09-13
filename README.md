@@ -5,19 +5,19 @@ It is a web application built using React.js that allows users to organize and m
 
 Follow these steps to run the Note Keeper App locally on your machine:
 
-### Clone this repository to your local machine: 
-   git clone https://github.com/your-username/note-keeper-app.git
+### 1. Clone this repository to your local machine: 
+   git clone https://github.com/manjeet023/Note-keeper
    
-### Navigate to the project directory:
+### 2. Navigate to the project directory:
   cd note-keeper-app
 
-### Install the required dependencies:
+### 3. Install the required dependencies:
   npm install
 
-### Start the development server:
+### 4. Start the development server:
   npm start
 
-### Open your web browser and access the app at http://localhost:3000.
+### 5. Open your web browser and access the app at http://localhost:3000.
 
 # Technologies Used
 React.js: Front-end framework for building the user interface.
